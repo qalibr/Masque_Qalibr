@@ -49,6 +49,6 @@ Masque:AddSkin(SKIN_NAME, {
     },
 
     Icon = {
-        Mask = TEXTURE_PATH .. "Mask" -- Hack to produce translucent effect
+        Mask = TEXTURE_PATH .. "Mask"
     }
 })
