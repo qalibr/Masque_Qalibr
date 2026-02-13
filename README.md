@@ -1,8 +1,10 @@
 # Qalibr
 
-Custom skin for [Masque](https://github.com/SFX-WoW/Masque).
+Custom skin for [Masque](https://github.com/SFX-WoW/Masque). Comes in three opacity variants. 
 
 ## Example
+
+Featured example is *Low* opacity.
 
 <img src="./Img/sans-backdrop.png" alt="drawing" style="width:300px;"/>
 
