@@ -1,0 +1,14 @@
+## Interface: 11508, 20504, 20505, 30405, 38000, 40402, 50503, 110207, 120000, 120001
+
+## Title: Masque: Qalibr
+## Notes: A dark, simple skin for Masque.
+## Author: qalibr
+## Version: @project-version@
+## Category: Masque
+## Dependencies: Masque
+## IconTexture: Interface\Addons\Masque_Qalibr\Icon.png
+
+## X-Website: https://github.com/qalibr/Masque_Qalibr
+## X-Curse-Project-ID: 1461172
+
+Core.lua

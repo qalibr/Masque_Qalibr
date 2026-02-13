@@ -1,0 +1,19 @@
+Copyright (c) 2026 qalibr. All rights reserved.
+
+1. Software & Code
+
+The source code (Lua, TOC) of this add-on is provided under the MIT License. You may use, copy, and modify the code, provided that the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
+
+2. Assets
+
+Notwithstanding Section 1, all graphical assets, including but not limited to textures (.tga, .blp), icons, 3D models, and custom fonts contained within this package, are the exclusive intellectual property of the author.
+
+* No Derivatives: You may not modify, edit, or create derivative works from these assets.
+
+* No Redistribution: These assets may not be extracted and redistributed for use in other add-ons or projects without explicit written permission.
+
+* Mod Pack Exception: You may redistribute these assets only as part of this specific add-on, kept intact and unmodified, within "UI Compilations" or "Addon Packs."
+
+* The name of this add-on and/or its author(s) may not be used to promote or endorse works derived from the code without specific prior written permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
