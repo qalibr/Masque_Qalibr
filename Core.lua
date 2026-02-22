@@ -8,8 +8,8 @@ end
 
 local TEXTURE_PATH = "Interface\\AddOns\\" .. Masque_Qalibr .. "\\Assets\\"
 
-local WIDTH = 35.9
-local HEIGHT = 36.5
+local WIDTH = 36
+local HEIGHT = 36
 
 local VARIATIONS = {
     ["Qalibr (Low)"] = "70",
@@ -19,7 +19,7 @@ local VARIATIONS = {
 
 local BaseSkin = {
     Author = "qalibr",
-    Version = "1.1.0",
+    Version = "1.1.1",
     Masque_Version = MSQ_Version,
     Description = "A dark, simple skin for Masque.",
 
@@ -45,8 +45,8 @@ local BaseSkin = {
     },
 
     Highlight = {
-        Width = WIDTH + 2.1,
-        Height = HEIGHT + 1.5,
+        Width = WIDTH + 3,
+        Height = HEIGHT + 2,
         BlendMode = "ADD",
         Color = {1, 1, 1, 0.3}
     }
@@ -64,6 +64,9 @@ end
 for skinName, opacityValue in pairs(VARIATIONS) do
     local skinData = CopyTable(BaseSkin)
     skinData.Icon = {
+        Width = WIDTH - 1,
+        Height = HEIGHT - 1,
+        TexCoords = {0.04, 0.96, 0.04, 0.96},
         Mask = TEXTURE_PATH .. "Mask-" .. opacityValue
     }
 
